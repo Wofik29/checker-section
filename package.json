@@ -23,6 +23,6 @@
         "vue": "^2.6.10",
         "vue-material-design-icons": "^4.1.0",
         "vue-yandex-maps": "^0.8.18",
-        "vuetify": "^2.1.5"
+        "vuetify": "^2.6.10"
     }
 }
